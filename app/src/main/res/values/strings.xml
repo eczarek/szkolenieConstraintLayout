@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+
+    <string name="name">Marian Hart</string>
+    <string name="profession">Director of Project Management at \nGoldenPhase Solar</string>
+    <string name="school">Syracuse University - New York \nGreater San Diego Area . 500</string>
+    <string name="button1">MESSAGE</string>
+    <string name="button2">CONNECT</string>
+    <string name="description">I'm a renewable energy executive with 10 years \nof experience, and have built strong skills in get...</string>
+
+</resources>
